@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergius-Nyah
-- 👀 I’m interested in mastering the underlying principles of Computer Science
-- 🌱 I’m currently learning advanced Algorithms and Data Structures. 
-- 💞️ I’m looking to collaborate on @linuxfoundation
+- 👀 I’m a Technologist. 
+- 🌱 I’m currently Dinosours. 
+- 💞️ I’m looking to collaborate on linuxfoundation
 - 📫 How to reach me: (via Twitter) @justusnyah
 
 <!---
