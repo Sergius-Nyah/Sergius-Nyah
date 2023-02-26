@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergius-Nyah
-- 👀 I’m a Technologist. 
-- 🌱 I’m currently Dinosours (if you know, you know!). 
+- 👀 I’m an aspiring Technologist. 
+- 🌱 I’m currently learning Full stack Web Development (if you know, you know!). 
 - 💞️ I’m looking to collaborate on linuxfoundation
 - 📫 How to reach me: (via Twitter) @justusnyah
 
