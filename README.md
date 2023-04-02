@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
   
   
   
-                                                                     _The greatest penalty_for declining leadership is to be ruled by someone inferior
-                                                                     to you! ~> Plato__
+               _The greatest penalty_for declining leadership is to be ruled by someone inferior
+                to you! ~> Plato__
