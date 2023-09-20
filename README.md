@@ -14,9 +14,9 @@ I'm a curiosity-bound individual with a keen interest in deep learning, AI on th
 
 ## What I Can Offer
 
-🚀 **Experience**: I have experience in software development and Algorithm design.
- 🎓 **Education**: I'm passionate about education and love sharing my knowledge with others. Presently volunteering at KET Academy as a Computer Science facilitator for high school students. 
- 🤝 **Collaboration**: I believe that collaboration is essential for achieving great things. I enjoy working with others on open source projects and brilliant initiatives.
+- 🚀 **Experience**: I have experience in software development and Algorithm design.
+- 🎓 **Education**: I'm passionate about education and love sharing my knowledge with others. Presently volunteering at KET Academy as a Computer Science facilitator for high school students. 
+- 🤝 **Collaboration**: I believe that collaboration is essential for achieving great things. I enjoy working with others on open source projects and brilliant initiatives.
 
 ## Get in Touch
 
