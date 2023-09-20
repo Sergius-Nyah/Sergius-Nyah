@@ -1,5 +1,5 @@
 
-# Hello, I'm [Sergius] 👋
+# Hello, I'm Sergius 👋
 
 Firstly, ~> "The only way to do great work is to love what you do." - Steve Jobs
 
