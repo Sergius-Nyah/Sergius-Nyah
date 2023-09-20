@@ -1,7 +1,7 @@
 
 # Hello, I'm Sergius 👋
 
-Firstly, ~> "The only way to do great work is to love what you do." - Steve Jobs
+Firstly ~> "The only way to do great work is to love what you do." - Steve Jobs
 
 I'm a curiosity-bound individual with a keen interest in deep learning, AI on the web, algorithms, and their interactions in our soceity. I believe that these fields have the potential to shape the future and solve our most pressing problems.
 
