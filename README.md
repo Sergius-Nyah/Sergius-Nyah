@@ -1,2 +1,2 @@
-![Author Image](IMAGE )                                                                                             
+![Author Image]
 >
