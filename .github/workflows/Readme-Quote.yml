@@ -1,0 +1,40 @@
+name: Update README
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./.github/actions/update-readme
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch random Quote
+        run: |
+          QUOTE=$(curl -s https://programming-quotes-api.herokuapp.com/quotes/random | jq -r '.en + " - " + .author')
+          AUTHOR=$(echo $QUOTE | cut -d'-' -f2 | xargs)
+          IMAGE=$(curl -s "https://en.wikipedia.org/w/api.php?action=query&titles=$AUTHOR&prop=pageimages&format=json&pithumbsize=500&origin=*" | jq -r '.query.pages[].thumbnail.source')
+          echo "::set-output name=QUOTE::$QUOTE"
+          echo "::set-output name=IMAGE::$IMAGE"
+        
+      - name: Update README
+        run: |
+          QUOTE="${{steps.quote.outputs.QUOTE}}"
+          IMAGE="${{steps.quote.outputs.IMAGE}}"
+          sed -i "/^> /c\> $QUOTE" README.md
+          sed -i "/^!\[Author Image\]/c\![Author Image]($IMAGE)" README.md
+
+      - name : Commit and push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          run: |
+           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+           git config --local user.name "github-actions[bot]"
+           git add README.md
+           git commit -m "Update README"
+           git push
