@@ -1,2 +1,2 @@
-![Author Image](image-url-goes-here)                                                                                             
+![Author Image]( )                                                                                             
 >
