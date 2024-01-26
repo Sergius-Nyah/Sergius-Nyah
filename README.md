@@ -23,7 +23,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sergius-Nyah&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
-- [Terminal Music Player](https://github.com/Sergius-Nyah/RayTracer.)
+- [3D RayTracer](https://github.com/Sergius-Nyah/RayTracer.)
 
 
 ## 🎧 Currently Playing
