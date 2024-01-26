@@ -38,14 +38,5 @@
 <a href="https://www.buymeacoffee.com/SergiusNyah"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg"></a>
 
 ## 🎧 Currently Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nun57so66oyxowdlfbwl4psvru)
-
-## 📫 Connect with me
-<p align="left">
-<a href="https://twitter.com/Sergius_Nyah"><img src="https://img.shields.io/twitter/follow/Sergius_Nyah?logo=twitter"></a>
-<a href="https://linkedin.com/in/Sergius-Nyah"><img src="https://img.shields.io/badge/-Sergius_Nyah-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Sergius-Nyah"></a>
-<a href="mailto:sergiusnyah@gmail.com"><img src="https://img.shields.io/badge/-email-?logo=Gmail&logoColor=white&link=mailto:sergiusnyah@gmail.com"></a>
-</p>
-
-```
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nun57so66oyxowdlfbwl4psvru) 
 
