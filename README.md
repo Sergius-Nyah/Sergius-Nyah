@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Universe! 🌌 I'm [Sergius] 👋</h1>
+<h1 align="center">Hello, World! 🌌 I'm Sergius 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Music+Technology+Enthusiast;Always+Learning+New+Technologies;Believer+in+the+Power+of+Code"/>
