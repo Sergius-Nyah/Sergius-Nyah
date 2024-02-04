@@ -28,9 +28,6 @@
 ## 💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergius-Nyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🤝 Open Source Helper
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-
 ## 😄 Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
 
