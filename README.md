@@ -31,6 +31,6 @@
 ## 😄 Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
 
-## 🎧 Currently Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nun57so66oyxowdlfbwl4psvru) 
+
+
 
