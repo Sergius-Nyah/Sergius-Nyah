@@ -7,7 +7,7 @@
 ## 🚀 About Me 
 - 🔭 I’m currently working on Numerous Open Source projects. 
 - 👯 I’m looking to collaborate on any open source Educational projects.
-- 📫 Reach me at: [My Email](sergiusnyah@gmail.com)
+- 📫 Reach me at: [My Email](mailto:sergiusnyah@gmail.com)
 - ⚡ Fun fact: 心怀仁爱，工程为志 ! 
 
 ## 📈 GitHub Stats
