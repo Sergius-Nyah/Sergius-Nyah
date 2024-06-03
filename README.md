@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings, I'm Sergius!  </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Music+Technology+Enthusiast;Always+Learning+New+Technologies;Believer+in+the+Power+of+Code"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Geometry+Machine +Learning+Enthusiast"/>
 </p>
 
 ## 🚀 About Me 
@@ -17,15 +17,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sergius-Nyah&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sergius-Nyah&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🗂️ Highlight Projects
 - [3D RayTracer](https://github.com/Sergius-Nyah/RayTracer.)
 
-## 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergius-Nyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
