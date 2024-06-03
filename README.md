@@ -1,12 +1,12 @@
-<h1 align="center"> Someone died for you!  </h1>
+<h1 align="center"> Greetings, I'm Sergius!  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Music+Technology+Enthusiast;Always+Learning+New+Technologies;Believer+in+the+Power+of+Code"/>
 </p>
 
 ## 🚀 About Me 
-- 🔭 I’m currently working on Numerous Open Source projects. 
-- 👯 I’m looking to collaborate on any open source Educational projects.
+- 🔭 I’m currently working on 3D Geometry and Machine Learning. 
+- 👯 I’m looking to collaborate on any Open Source Geometry or ML repo.
 - 📫 Reach me at: [My Email](mailto:sergiusnyah@gmail.com)
 - ⚡ Fun fact: 心怀仁爱，工程为志 ! 
 
