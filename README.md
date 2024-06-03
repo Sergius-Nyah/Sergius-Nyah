@@ -1,6 +1,6 @@
 <h1 align="center"> Hey 👋, I'm Sergius!  </h1>
 
-Research Intern @MIT Computer Science and AI Lab.
+Research Intern [@MIT Computer Science and AI Lab](https://github.com/csail)
 - 🔭 I’m currently working on 3D Geometry and Machine Learning. 
 - 👯 I’m looking to collaborate on any Open Source Geometry or ML repo.
 - 📫 Reach me at: [My Email](mailto:sergiusnyah@gmail.com)
