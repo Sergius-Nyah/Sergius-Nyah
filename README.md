@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings, I'm Sergius!  </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Geometry+Machine +Learning+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Software+Developer+Involved+with+Everthing+Innovative;Geometry+Machine+Learning+Enthusiast"/>
 </p>
 
 ## 🚀 About Me 
