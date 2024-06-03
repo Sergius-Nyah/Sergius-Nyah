@@ -2,7 +2,7 @@
 
 Research Intern [@MIT Computer Science and AI Lab](https://github.com/csail)
 - 🔭 I’m currently working on 3D Geometry and Machine Learning. 
-- 👯 I’m looking to collaborate on any Open Source Geometry or ML repo.
+- 👯 Looking foward to collaborate on 3D Geometry or Geometric ML.
 - 📫 Reach me at: [My Email](mailto:sergiusnyah@gmail.com)
 - ⚡ Fun fact: ❤️🎮🎹! 
 
