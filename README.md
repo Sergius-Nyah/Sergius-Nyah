@@ -8,11 +8,8 @@ Research Intern [@MIT Computer Science and AI Lab](https://github.com/csail)
 
 ### Let's Connect:
 
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/@Serg_ius_
-[linkedin]: https://linkedin.com/in/sergius-nyah
+[![Linkedin: Sergius Nyah](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serguis-nyah/)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter: @Serg_ius_](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/@Serg_ius_)
 
 ## 😄 Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
