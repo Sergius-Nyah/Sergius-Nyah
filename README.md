@@ -1,6 +1,6 @@
 <h1 align="center"> Hey 👋, I'm Sergius!  </h1>
 
-- 🔭 I’m currently working on 3D Geometry and Machine Learning. 
+- 🔭 I’m currently working on 3D Geometry, Data Science, and Machine Learning
 - 👯 Looking foward to collaborate on 3D Geometry or Geometric ML.
 - ♾️ Avid learner; ReactJS currently on Menu!
 - 📫 Reach me at: [My Email](mailto:sergiusnyah@gmail.com)
