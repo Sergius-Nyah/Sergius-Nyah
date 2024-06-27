@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, I'm Sergius!  </h1>
+<h1 align="center"> Sergius here!  </h1>
 
 - 🔭 I’m currently working on 3D Geometry, Data Science, and Machine Learning
 - 👯 Looking foward to collaborate on 3D Geometry or Geometric ML.
